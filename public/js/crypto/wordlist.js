@@ -1,4 +1,4 @@
-const BIP39_WORDS = [
+export const BIP39_WORDS = [
   "abandon",
   "ability",
   "able",
