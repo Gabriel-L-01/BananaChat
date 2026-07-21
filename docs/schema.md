@@ -12,7 +12,7 @@
 
 ---
 
-## Serwer - firebase
+## Serwer - supabase
 
 ### Zapisywane dane
 
